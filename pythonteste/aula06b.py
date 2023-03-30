@@ -1,0 +1,10 @@
+#valor = bool(input('Digite um valor: '))
+#print(valor)
+
+valor = input('Digite um valor: ')
+print(type(valor))
+print(valor.isnumeric())
+print(valor.isalpha())
+print(valor.isalnum())
+print(valor.isupper())
+print(valor.islower())

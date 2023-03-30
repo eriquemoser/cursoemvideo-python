@@ -1,0 +1,5 @@
+help(print)
+print('-='*30)
+print(input.__doc__)
+print('-='*30)
+help(input)
